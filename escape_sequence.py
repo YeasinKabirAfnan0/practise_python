@@ -2,7 +2,7 @@
 # \' to use '' inside any string
 # \\ to use \ (backslash) inside any string, as normal strings can be normally printed in the programs.
 # \n to use next line inside any string
-Name = "Yeasin \"Kabir\" Afnan"
+Name = "Yeasin \"Kabir\" 😊 Afnan"
 Name1 = "Yeasin \'Kabir\' Afnan"
 Name2 = "Yeasin /Kabir Afnan"
 Name4 = "Yeasin \\ Kabir"
