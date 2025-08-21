@@ -1,0 +1,5 @@
+what is expression?
+
+what is syntax error? example?
+
+what does a linter do?
