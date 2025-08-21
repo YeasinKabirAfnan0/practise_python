@@ -1,4 +1,4 @@
-print("Hellow World! 😊😊")
+print("Hellow World! mew mew 😊😊")
 print("* " * 10)
 x = 1
 print(float(x))
