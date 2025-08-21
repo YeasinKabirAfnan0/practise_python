@@ -1,4 +1,4 @@
-Fruit_name = "  Apple,Banana,  Jackfruit  "
+Fruit_name = "      Apple,Ba  nana,  Jackfruit  "
 
 # upper,lower,find where the banana is,title,remove unnecessary spaces from both sides and also for over all
 # replace n with m,search if monkey is there or not, prove grapes are not there
